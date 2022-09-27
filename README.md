@@ -6,4 +6,6 @@ Simple Password Generator written in C#
 
 
 You can choose how many characters your password should have.
+
+
 Button to copy generated password to clipboard.
